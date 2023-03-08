@@ -56,7 +56,7 @@ header nav ul li a:hover {
     min-height: 700px;
     max-width: 1200px;
     width: 100%;
-    background-image: url(./images/img-mission-background.jpg);
+    background-image: url(./img-mission-background.jpg);
     display: flex;
     align-items: center;
     text-align: center;
@@ -99,7 +99,7 @@ header nav ul li a:hover {
     width: 100%;
     min-height: 500px;
     margin: 69px auto;
-    background-image: url(./images/img-locations-background.jpg);
+    background-image: url(./img-locations-background.jpg);
     background-position-y: 20%;
     background-size: cover;
     text-align: center;
@@ -139,5 +139,3 @@ footer section h2 {
 footer p {
     margin-left: 20px;
 }
-
-
