@@ -40,7 +40,9 @@ nav {
 header nav ul {
     list-style: none;
     display: inline-flex;
+    justify-content: center;
     flex-wrap: wrap;
+    padding-inline-start: 0;
 }
 header nav ul li {
     text-decoration: underline;
